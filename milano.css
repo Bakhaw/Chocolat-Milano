@@ -79,13 +79,13 @@ nav a {
   margin-top: 10em;
 }
 
-.block1-3 .fa {
+.fa {
   font-size: 20px;
   color: #E4B484;
   transition: 0.5s;
 }
 
-.block1-3 .fa:hover {
+.fa:hover {
   color: #ffffff;
   transition: 0.5s;
 }
@@ -464,4 +464,28 @@ nav a {
   background-color: #C9A958;
   color: #222222;
   transition: all 0.2s ease-in-out;
+}
+
+.footer {
+  background-color: rgb(36, 19, 11);
+}
+.footer {
+  display: flex;
+  align-items: center;
+  height: 50px;
+}
+.footer ul {
+  display: flex;
+  list-style: none;
+}
+.footer p {
+  color: #fff;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 10px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+.footer a {
+  text-decoration: none;
+  color: #C9A958;
 }
