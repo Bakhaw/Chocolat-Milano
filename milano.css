@@ -259,7 +259,6 @@ nav a {
 }
 
 .block4-2 {
-  padding: 1em 0;
   display: flex;
   text-align: center;
   background-color: #F4EEDD;
@@ -273,7 +272,7 @@ nav a {
 }
 
 .block5 {
-  margin-top: 2.5em;
+  margin-top: 7em;
   margin-bottom: 5em;
   text-align: center;
 }
@@ -355,6 +354,7 @@ nav a {
   font-weight: 700;
   letter-spacing: 5px;
   text-decoration: none;
+  color: #ffffff;
 }
 
 .text {
@@ -422,8 +422,13 @@ nav a {
   display: flex;
 }
 
-.block7 h2 {
+.block7-1 h2 {
   color: #24130B;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 5px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
 }
 
 .block7-1 {
